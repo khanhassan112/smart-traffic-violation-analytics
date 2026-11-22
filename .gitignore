@@ -1,2 +1,4 @@
 venv/
 .DS_Store
+outputs/evidence_crops/
+__pycache__/
